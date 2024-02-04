@@ -1,0 +1,1 @@
+# finagle-slick-template
